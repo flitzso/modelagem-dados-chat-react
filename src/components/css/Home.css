@@ -1,0 +1,68 @@
+body {
+    background-color: #a9b2d6;
+}
+
+.title-reets {
+    color: rgb(129, 126, 126);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400; /* ou 'lighter' */
+    font-size: 95%;
+    right: auto;
+    left: 10%;
+    position: relative;
+}
+
+.aviso-senha {
+    color: rgb(129, 126, 126);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400; /* ou 'lighter' */
+    font-size: 95%;
+    right: auto;
+    left: 28%;
+    position: relative;
+}
+
+.form-group {
+    background-color: #dfe1ee;
+    position: relative;
+    left: 15%;
+    margin: 2%;
+}
+
+.btn-login {
+    position: relative;
+    left: 18%;
+    margin-top: 5%;
+    padding: 6px 18px 6px 18px;
+    font-size: 13px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.btn-nova-conta {
+    position: relative;
+    left: 25%;
+    padding: 8px 20px 8px 20px;
+    margin-top: 6%;
+    border-color: #dfe1ee;
+    border-radius: 2px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.form-control {
+    background-color: rgb(255, 255, 255);
+    padding: 3%;
+    border: none;
+}
+
+.container-login {
+    position: relative;
+    background-color: #dfe1ee;
+    padding: 50px;
+    border-radius: 2px;
+    border: 3px solid #f0f0f0;
+    border-radius: 1%;
+    margin-right: 70%;
+    left: 60%;
+    right: auto;
+    margin-top: 11%;
+}
